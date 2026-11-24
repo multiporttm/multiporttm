@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Multiport products and services. You can find me at [multiportllc.com](multiportllc.com)
+- 🔭 I’m currently working on Multiport products and services. You can find me at [multiportllc.com](https://multiportllc.com)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
